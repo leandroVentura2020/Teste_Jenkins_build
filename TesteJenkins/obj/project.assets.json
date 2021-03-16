@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leandro Ventura\\source\\repos\\TesteJenkins\\TesteJenkins\\TesteJenkins.vbproj",
+      "projectUniqueName": "C:\\Users\\Leandro Ventura\\Source\\Repos\\Teste_Jenkins_build\\TesteJenkins\\TesteJenkins.vbproj",
       "projectName": "TesteJenkins",
-      "projectPath": "C:\\Users\\Leandro Ventura\\source\\repos\\TesteJenkins\\TesteJenkins\\TesteJenkins.vbproj",
+      "projectPath": "C:\\Users\\Leandro Ventura\\Source\\Repos\\Teste_Jenkins_build\\TesteJenkins\\TesteJenkins.vbproj",
       "packagesPath": "C:\\Users\\Leandro Ventura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leandro Ventura\\source\\repos\\TesteJenkins\\TesteJenkins\\obj\\",
+      "outputPath": "C:\\Users\\Leandro Ventura\\Source\\Repos\\Teste_Jenkins_build\\TesteJenkins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro Ventura\\AppData\\Roaming\\NuGet\\NuGet.Config",
